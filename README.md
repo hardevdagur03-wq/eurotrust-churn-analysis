@@ -38,9 +38,9 @@ This project analyzes customer churn for **EuroTrust Bank**, a fictional Europea
 
 | Page | Description |
 |------|-------------|
-| ![Executive Summary](dashboard_overview.png.png) | **Executive Summary** — KPI cards, churn by gender, age, geography, credit score, balance |
-| ![Behavior Analysis](dashboard_overview.png.png) | **Behavior Analysis** — Churn by tenure, product count, activity status |
-| ![Risk Analysis](risk_analysis.png.png) | **Risk Analysis** — High-risk customer table, revenue at risk, balance category filter |
+| ![Executive Summary](images/dashboard_overview.png.png) | **Executive Summary** — KPI cards, churn by gender, age, geography, credit score, balance |
+| ![Behavior Analysis](images/dashboard_overview.png.png) | **Behavior Analysis** — Churn by tenure, product count, activity status |
+| ![Risk Analysis](images/risk_analysis.png.png) | **Risk Analysis** — High-risk customer table, revenue at risk, balance category filter |
 
 ---
 
@@ -126,9 +126,9 @@ eurotrust-churn-analysis/
 **[Haradev Dagur]**
  Data Analyst | Power BI · Excel · SQL · Python
 
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/haradev-dagur-924760394/))
+- 🔗 LinkedIn: [https://www.linkedin.com/in/haradev-dagur-924760394/]
 - 📧 Email: hardevdagur03@gmail.com
-- 💼 Portfolio: [github.com/yourusername](https://github.com/yourusername)
+- 💼 Portfolio: [hardevdagur03-wq]
 
 ---
 
