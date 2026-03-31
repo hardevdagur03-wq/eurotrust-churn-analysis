@@ -38,9 +38,9 @@ This project analyzes customer churn for **EuroTrust Bank**, a fictional Europea
 
 | Page | Description |
 |------|-------------|
-| ![Executive Summary](images/dashboard_overview.png.png) | **Executive Summary** — KPI cards, churn by gender, age, geography, credit score, balance |
-| ![Behavior Analysis](images/dashboard_overview.png.png) | **Behavior Analysis** — Churn by tenure, product count, activity status |
-| ![Risk Analysis](images/risk_analysis.png.png) | **Risk Analysis** — High-risk customer table, revenue at risk, balance category filter |
+| ![Executive Summary](image/dashboard_overview.png.png) | **Executive Summary** — KPI cards, churn by gender, age, geography, credit score, balance |
+| ![Behavior Analysis](image/dashboard_overview.png.png) | **Behavior Analysis** — Churn by tenure, product count, activity status |
+| ![Risk Analysis](image/risk_analysis.png.png) | **Risk Analysis** — High-risk customer table, revenue at risk, balance category filter |
 
 ---
 
