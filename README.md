@@ -38,9 +38,9 @@ This project analyzes customer churn for **EuroTrust Bank**, a fictional Europea
 
 | Page | Description |
 |------|-------------|
-| ![Executive Summary](images/dashboard_overview.png) | **Executive Summary** — KPI cards, churn by gender, age, geography, credit score, balance |
-| ![Behavior Analysis](images/behavior_analysis.png) | **Behavior Analysis** — Churn by tenure, product count, activity status |
-| ![Risk Analysis](images/risk_analysis.png) | **Risk Analysis** — High-risk customer table, revenue at risk, balance category filter |
+| ![Executive Summary](dashboard_overview.png.png) | **Executive Summary** — KPI cards, churn by gender, age, geography, credit score, balance |
+| ![Behavior Analysis](dashboard_overview.png.png) | **Behavior Analysis** — Churn by tenure, product count, activity status |
+| ![Risk Analysis](risk_analysis.png.png) | **Risk Analysis** — High-risk customer table, revenue at risk, balance category filter |
 
 ---
 
@@ -111,15 +111,7 @@ eurotrust-churn-analysis/
 - [ ] Deploy inactivity trigger system — auto-outreach after 60 days of no transactions
 - [ ] Assign dedicated relationship managers to high-balance inactive accounts
 
-### 📅 Short-Term (30–90 Days)
-- [ ] Launch Female Customer Retention Program (financial planning tools, advisory)
-- [ ] Design Senior-specific product tier with retirement planning features
-- [ ] Analyze Spain's lower churn model and pilot practices in Germany & France
 
-### 🔭 Strategic (90–180 Days)
-- [ ] Build ML churn prediction model (XGBoost / Logistic Regression, target AUC > 0.80)
-- [ ] Features: tenure, activity status, product count, geography, credit score, balance tier
-- [ ] Deploy real-time churn tracking dashboard for business teams
 
 ---
 
@@ -131,11 +123,11 @@ eurotrust-churn-analysis/
 
 ## 🙋 About Me
 
-**[Your Name]**
-Aspiring Data Analyst | Power BI · Excel · SQL · Python
+**[Haradev Dagur]**
+ Data Analyst | Power BI · Excel · SQL · Python
 
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/haradev-dagur-924760394/))
+- 📧 Email: hardevdagur03@gmail.com
 - 💼 Portfolio: [github.com/yourusername](https://github.com/yourusername)
 
 ---
